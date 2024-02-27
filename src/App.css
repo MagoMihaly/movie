@@ -1,0 +1,24 @@
+:root{ 
+    --color1:rgb(73,27,73);
+    --color2:rgb(239, 215, 239);
+    --color3:rgb(26, 2, 26);
+}
+
+
+.app{
+  width: 100vw;
+  min-height: 100vh;
+  background-color: var(--color3);
+  color : var(--color2);
+  margin-top: 56px; 
+}
+
+.MuiBottomNavigation-root {
+  background-color: var(--color1)!important;
+}
+
+.MuiButtonBase-root:not(.mycard) {
+  color: var(--color2)!important;
+}
+
+ 

@@ -1,0 +1,13 @@
+.content-modal{
+  display: flex;
+  flex-direction: column;
+}
+
+.css-lwnsrli{
+  max-width: 500px!important;
+  width: 80%!important;
+}
+
+.lazy-img img{
+  width: 100%;
+}
