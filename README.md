@@ -1,2 +1,2 @@
 demo :
-movies-mm.netlify.app
+https://movies-mm.netlify.app/
